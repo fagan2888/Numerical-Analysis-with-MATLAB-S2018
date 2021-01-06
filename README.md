@@ -1,2 +1,8 @@
 # Numerical-Analysis-with-MATLAB-S2018
-MATLAB code for the graduate level course Numerical Analysis.
+## MATLAB code for the graduate level course Numerical Analysis.
+### (I) ERROR: ITS SOURCES, PROPAGATION, AND ANALYSIS
+### (II) ROOTFINDING FOR NONLINEAR EQUATIONS
+### (III) INTERPOLATION THEORY
+### (IV) APPROXIMATION OF FUNCTIONS
+### (V) NUMERICAL INTEGRATION
+### (VI) NUMERICAL METHODS FOR ORDINARY DIFFERENTIAL EQUATIONS
